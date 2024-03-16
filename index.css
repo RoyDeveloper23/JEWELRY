@@ -1,0 +1,16 @@
+:root {
+  --color-claro: #6f95ff;
+  --color-oscuro: #22309a;
+  --clr-white: #f4fefd;
+}
+
+body {
+  /* background-color: var(--color-oscuro); */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
