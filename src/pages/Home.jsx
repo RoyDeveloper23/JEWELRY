@@ -1,7 +1,10 @@
-import { Slider } from "@components";
+import { Slider, Header } from "@components";
 
 export const Home = () => {
   return (
-       <Slider></Slider>
+    <>
+      <Header />
+      <Slider />
+    </>
   );
 };
